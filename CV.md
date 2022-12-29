@@ -39,6 +39,13 @@ Participant<br>
     Oct. 2016 to Oct. 2017, Master’s Innovation Project of Guangxi Graduate Education (XYCSZ2017054) Second participant, RMB 15,000<br>
 
 ****Publication**** <br>
+
+<br>2022<br>
+    [27]<b>Zhengjie Xu</b>, Lanqin Huang, et al. Thermal Annealing-Free SnO2 for Fully Room-Temperature-Processed Perovskite Solar Cells. <b><i>ACS Applied Materials & Interfaces</b></i>, 2022, 14(36), 41037–41044. (Q1, IF= 10.383)
+    [26]Dongdong Xu, Runsheng Mai, Yue Jiang, Cong Chen, Ru Wang, <b>Zhengjie Xu</b>, et al. An internal encapsulating layer for efficient, stable, repairable and low-lead-leakage perovskite solar cells. <b><i>Energy & Environmental Science</b></i>, 2022,15, 3891-3900. (Q1, IF= 39.714)
+    [25]YehuiWua, Zhiming Gong, Yue Jiang, Ru Wang, Dongdong Xu, <b>Zhengjie Xu</b>, et al. Low-cost and efficient hole transport materials based on 9-phenyl-9H-carbazole branch for perovskite solar cells. <b><i>Surfaces and Interfaces</b></i>, 2022, 28, 101598. (Q1, IF= 6.137)
+
+
 <br>2021<br>
     [24]Jiangqi Zhao, <b>Zhengjie Xu (co-first author)</b> , Zhan Zhou, Shibo Xi, Yunpeng Xia, Qingyong Zhang, Lanqin Huang, Liang Mei, Yue Jiang, Jinwei Gao, Zhiyuan Zeng, and Chaoliang Tan. A Safe Flexible Self-Powered Wristband System by Integrating Defective MnO2−x Nanosheet-Based Zinc-Ion Batteries with Perovskite Solar Cells. <b><i>ACS NANO</i></b>, 2021, 15(6), 10597-10608. (Q1, IF = 15.881), DOI:10.1021/acsnano.1c03341<br>
     [23]<b>Zhengjie Xu</b>, Yue Jiang, Zhuoxi Li, Cong Chen, Xiangyu Kong, Yiwang Chen, Guofu Zhou, Jun-Ming Liu, Krzysztof Kempa, Jinwei Gao. Rapid Microwave-Assisted Synthesis of SnO2 Quantum Dots for Efficient Planar Perovskite Solar Cells. <b><i>ACS Appl. Energy Mater</b></i>, 2021, 4(2), 1887-1893. (Q1, IF = 6.024), DOI:10.1021/acsaem.0c02992<br>
