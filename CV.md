@@ -17,7 +17,7 @@
     *National academic scholarship (first class scholarship of Ph.D degree), 2019<br>
     *National academic scholarship (second class scholarship of Ph.D degree), 2020<br>
 
-硕士，信息与通信工程，广西师范大学，2016至 2019，3.63/4（Top 1）<br>    
+硕士，信息与通信工程，广西师范大学，2016至 2019，3.63/4（Top 1） <br> 
 2016.9-2022.6 MA.Eng in Electronics and Communications Engineering, Guangxi Normal University, China<br>
     *Provincial Outstanding Master Graduate (Only 1 person in the whole college), 2019<br>
     *Outstanding Master Graduate of Guangxi Normal University, 2019<br>
@@ -26,7 +26,7 @@
     *National Academic Scholarship (first prize of master’s degree) (Rank 1st), 2017<br>
     *Admission Academic Scholarship of Guangxi Normal University, 2016<br>
 
-学士，通信工程，中山大学南方学院，2012至2016
+学士，通信工程，中山大学南方学院，2012至2016<br>
 2012.6-2016.9 B.E. in Communication Engineering, Nanfang College of Sun Yat-Sen University, China<br>
     *Excellent Dissertation for Bachelor’s Degree<br>
     
