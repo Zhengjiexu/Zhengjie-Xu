@@ -74,7 +74,7 @@ Participant<br>
     [09]Jun Zhu*(supervisor), <b>Zhengjie Xu (co-first author)</b>, Yuanming Huang. Novel High-Sensitivity Racetrack Surface Plasmon Resonance Sensor Modified by Graphene. <b><i>Molecules</b></i>, 2018, 23, 1726. (Q1, IF = 3.06), DOI:10.3390/molecules23071726<br>
     [08]Jun Zhu*(supervisor), <b>Zhengjie Xu</b>, Wenju Xu, Deli Fu, Duqu Wei. Surface Plasmon Polariton Waveguide by Bottom and Top of Graphene. <b><i>Plasmonics</b></i>, 2018, 13(5), 1513-1522. (Q2, IF = 2.366), DOI: 10.1007/s11468-017-0658-2<br>
     [07]<b>Xu Zhengjie</b>, Xu Wenju, Zhu Jun. Gain and amplification of surface plasma lasers. <b><i>Laser Journal</b></i>, 2018, 39(2). (in Chinese) DOI: 10.14016/j.cnki.jgzz.2018.02.008<br>
-    [06] Jun Zhu*(导师), <b>Zhengjie Xu</b>, et al. Light humidity sensor of surface plasmon resonance by symmetric metal film. <b><i>Plasmonics</b></i>, 2018, 13(2), 681-686. (Q2, IF = 2.926).
+    [06] Jun Zhu*(supervisor), <b>Zhengjie Xu</b>, et al. Light humidity sensor of surface plasmon resonance by symmetric metal film. <b><i>Plasmonics</b></i>, 2018, 13(2), 681-686. (Q2, IF = 2.926).
     [05] Ge Wang, Jun Zhu, Jian Lou, <b>Zhengjie Xu</b>. Research progress of nano－enhanced surface plasmon resonance sensing technology. <b><i>Laser Journal</b></i>, 2018, 39(8). (in Chinese) DOI: 10. 14016 /j.cnki.jgzz.2018.08.001<br>
 
 
@@ -85,12 +85,13 @@ Participant<br>
     [01]Jun Zhu*(supervisor), Wenju Xu, <b>Zhengjie Xu</b>, Deli Fu, Shuxiang Song, Duqu Wei. Surface plasmon polariton mode in the metal-insulator-metal waveguide. <b><i>Optik</b></i>, 2017, 134, 187-193. (Q2, IF = 1.191), DOI:10.1016/j.ijleo.2017.01.047<br>
 
 ****Conferences**** <br>   
-[1] Sep 25 to Sep 27, 2017, The 1st International Conference of Smart World, Intelligent Innovation Integrated Development, Sheraton Xi’an North City Hotel, China<br>
-[2] Oct 15 to Oct 17, 2017, The Conference on Micro/nano Optical Technology and Application, Optical Microscopy Research and Applications, Suzhou, China<br>
+[1] Sep 25-27, 2017, The 1st International Conference of Smart World, Intelligent Innovation Integrated Development, Sheraton Xi’an North City Hotel, China<br>
+[2] Oct 15-17, 2017, The Conference on Micro/nano Optical Technology and Application, Optical Microscopy Research and Applications, Suzhou, China<br>
+[3] Nov 27-29, 2020, 第四届全国太阳能材料与太阳能电池学术研讨会，苏州，中国
+[4] Dec 15-17, 2021，International Online Conference on Hybrid Materials and Optoelectronic Devices
 
 ****Activities**** <br> 
-2017 – 2018
-
+2017 – 2018<br> 
 [1] Presidium, Graduate Student Association, Guangxi Normal University Communist Youth League<br>
 [2] Excellent Student Leader, ‘Jinggang Mountain Chinese Dream’ National College Summer Practice Special Action, Chinese Communist Youth League<br>
 [3] Excellent Student Cadre and Excellent League Members, “May 4th” Assessment, Guangxi Normal University Communist Youth League<br>
