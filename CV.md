@@ -32,10 +32,15 @@
     
 ****项目/Projects****<br>
 主持/Host<br>
+    2022.7-2023.3, XX仪器研制项目
     2019.9-2021.10, Ph.D’s Innovation Project of Graduate School of South China Normal University (2019LKXM012), RMB 12,000<br>
     2017.9-2018.10, Master’s Innovation Project of Guangxi Graduate Education (XYCSZ2018082), RMB 15,000<br>
 
 参与/Participant<br>
+    面向柔性太阳能电池全印刷的分形金属网络透明电极宏量制备研究(国家自然科学基金委-广东省政府联合基金重点项目,225万) <br>
+   面向钙钛矿太阳能电池应用的叶脉分形网络透明电极的电荷输运性能及机理研究(国家自然科学基金委面上项目,74万,项目编号：51571094) <br>
+   印刷亚微米金属网络透明电极薄膜技术及其产业化研究( 广东省重大专项,500 万, 项目编号：2014B090915005) <br>
+   新型柔性金属网络透明导电电极薄膜的制备及其光伏电池应用研究(广东省自然科学基金,10万,项目编号：2014A030313447) <br>
     Oct. 2019 to -, National Natural Science Foundation (51965007), RMB 400,000<br>
     Oct. 2017 to Oct. 2018, Guangxi Natural Science Foundation (2017GXNSFAA198261) Fifth participant, RMB 120,000<br>
     Oct. 2017 to Oct. 2018, Guangxi Key Laboratory of Automatic Testing Technology and Instruments (YQ19207) Fourth participant， RMB 50,000<br>
