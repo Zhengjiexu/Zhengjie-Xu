@@ -1,4 +1,4 @@
-Zhengjie Xu
+Zhengjie Xu/徐政杰
 
 ****Biography****<br>
     Zhengjie Xu received his Ph.D degrees from Institute for Advanced Materials (IAM) Academy of Advanced Optoelectronics, South China Normal University, China, in 2022. Xu as the main contributor published more than 28 technical articles with a total IF over 140. He has over 5 granted and patents.<br>
@@ -11,13 +11,12 @@ Zhengjie Xu
 ****Experiences****<br>
 2022.6-2023.3 Research and Development Engineer in the 5th Institute of Ministry of Industry and Information Technology(MIIT), China<br>
 
+
 2019.9-2022.6 Ph.D. in Condensed Matter Physics, Southern China Normal University, China<br>
-  Accomplishments include:<br>
     *National academic scholarship (first class scholarship of Ph.D degree), 2019<br>
     *National academic scholarship (second class scholarship of Ph.D degree), 2020<br>
     
 2016.9-2022.6 MA.Eng in Electronics and Communications Engineering, Guangxi Normal University, China<br>
-  Accomplishments include:<br>
     *Provincial Outstanding Master Graduate (Only 1 person in the whole college), 2019<br>
     *Outstanding Master Graduate of Guangxi Normal University, 2019<br>
     *Excellent Master Thesis of Guangxi Normal University, 2019<br>
@@ -26,7 +25,6 @@ Zhengjie Xu
     *Admission Academic Scholarship of Guangxi Normal University, 2016<br>
 
 2012.6-2016.9 B.E. in Communication Engineering, Nanfang College of Sun Yat-Sen University, China<br>
-  Accomplishments include:<br>
     *Excellent Dissertation for Bachelor’s Degree<br>
     
 ****Projects****<br>
@@ -85,7 +83,7 @@ Participant<br>
     [01]Jun Zhu*(supervisor), Wenju Xu, <b>Zhengjie Xu</b>, Deli Fu, Shuxiang Song, Duqu Wei. Surface plasmon polariton mode in the metal-insulator-metal waveguide. <b><i>Optik</b></i>, 2017, 134, 187-193. (Q2, IF = 1.191), DOI:10.1016/j.ijleo.2017.01.047<br>
 
 ****Conferences**** <br>   
-[1] Sep 25-27, 2017, The 1st International Conference of Smart World, Intelligent Innovation Integrated Development, Sheraton Xi’an North City Hotel, China<br>
+[1] Sep 25-27, 2017, The 1st International Conference of Smart World, Intelligent Innovation Integrated Development, Xi’an, China<br>
 [2] Oct 15-17, 2017, The Conference on Micro/nano Optical Technology and Application, Optical Microscopy Research and Applications, Suzhou, China<br>
 [3] Nov 27-29, 2020, 第四届全国太阳能材料与太阳能电池学术研讨会，苏州，中国
 [4] Dec 15-17, 2021，International Online Conference on Hybrid Materials and Optoelectronic Devices
