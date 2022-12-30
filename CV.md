@@ -86,16 +86,16 @@
     [01]Jun Zhu*(supervisor), Wenju Xu, <b>Zhengjie Xu</b>, Deli Fu, Shuxiang Song, Duqu Wei. Surface plasmon polariton mode in the metal-insulator-metal waveguide. <b><i>Optik</b></i>, 2017, 134, 187-193. (Q2, IF = 1.191), DOI:10.1016/j.ijleo.2017.01.047<br>
 
 ****专利/Patent****<br>  
-[1] Zhengjie Xu, Jun Zhu supervisor), et al.(ZL 2018 2 0810032.1)<br>  
-[2] Zhengjie Xu, Jun Zhu (supervisor), et al. (ZL 2017 2 0581406.2)<br>  
-[3] Jun Zhu (supervisor), Zhengjie Xu, et al. (ZL 2017 2 0581396.1)<br>  
-[4] Jun Zhu (supervisor),Zhengjie Xu, et al. (ZL 2016 2 1102557.7)<br>  
+[1] Zhengjie Xu, Jun Zhu supervisor), et al.(ZL 2018 2 0810032.1) <br>  
+[2] Zhengjie Xu, Jun Zhu (supervisor), et al. (ZL 2017 2 0581406.2) <br>  
+[3] Jun Zhu (supervisor), Zhengjie Xu, et al. (ZL 2017 2 0581396.1) <br>  
+[4] Jun Zhu (supervisor),Zhengjie Xu, et al. (ZL 2016 2 1102557.7) <br>  
 
-****会议/Conferences**** <br>   
-[1] Sep 25-27, 2017, The 1st International Conference of Smart World, Intelligent Innovation Integrated Development, Xi’an, China<br>
-[2] Oct 15-17, 2017, The Conference on Micro/nano Optical Technology and Application, Optical Microscopy Research and Applications, Suzhou, China<br>
-[3] Nov 27-29, 2020, 第四届全国太阳能材料与太阳能电池学术研讨会，苏州，中国
-[4] Dec 15-17, 2021, International Online Conference on Hybrid Materials and Optoelectronic Devices
+****会议/Conferences****  <br>   
+[1] Sep 25-27, 2017, The 1st International Conference of Smart World, Intelligent Innovation Integrated Development, Xi’an, China <br>
+[2] Oct 15-17, 2017, The Conference on Micro/nano Optical Technology and Application, Optical Microscopy Research and Applications, Suzhou, China <br>
+[3] Nov 27-29, 2020, 第四届全国太阳能材料与太阳能电池学术研讨会，苏州，中国 <br>
+[4] Dec 15-17, 2021, International Online Conference on Hybrid Materials and Optoelectronic Devices <br>
 
 ****活动/Activities**** <br> 
 2017 – 2018<br> 
