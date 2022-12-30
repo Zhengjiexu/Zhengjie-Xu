@@ -1,21 +1,23 @@
-Zhengjie Xu/徐政杰
+徐政杰/Zhengjie Xu<br>
 
-****Biography****<br>
+****简介/Biography****<br>
     Zhengjie Xu received his Ph.D degrees from Institute for Advanced Materials (IAM) Academy of Advanced Optoelectronics, South China Normal University, China, in 2022. Xu as the main contributor published more than 28 technical articles with a total IF over 140. He has over 5 granted and patents.<br>
 
-****Interests****<br>
+****研究兴趣/Interests****<br>
     Plasmonic<br>
     Pervoskite Solar Cell<br>
     Photovolatic devices<br>
     
-****Experiences****<br>
+****教育工作经历/Experiences****<br>
+工业和信息化部电子第五研究所，2022至今，中级研发工程师<br>
 2022.6-2023.3 Research and Development Engineer in the 5th Institute of Ministry of Industry and Information Technology(MIIT), China<br>
 
-
+博士，凝聚态物理，华南师范大学，2019至2022，3.27/4（Top 0.1%）<br>
 2019.9-2022.6 Ph.D. in Condensed Matter Physics, Southern China Normal University, China<br>
     *National academic scholarship (first class scholarship of Ph.D degree), 2019<br>
     *National academic scholarship (second class scholarship of Ph.D degree), 2020<br>
-    
+
+硕士，信息与通信工程，广西师范大学，2016至 2019，3.63/4（Top 1）<br>    
 2016.9-2022.6 MA.Eng in Electronics and Communications Engineering, Guangxi Normal University, China<br>
     *Provincial Outstanding Master Graduate (Only 1 person in the whole college), 2019<br>
     *Outstanding Master Graduate of Guangxi Normal University, 2019<br>
@@ -24,21 +26,22 @@ Zhengjie Xu/徐政杰
     *National Academic Scholarship (first prize of master’s degree) (Rank 1st), 2017<br>
     *Admission Academic Scholarship of Guangxi Normal University, 2016<br>
 
+学士，通信工程，中山大学南方学院，2012至2016
 2012.6-2016.9 B.E. in Communication Engineering, Nanfang College of Sun Yat-Sen University, China<br>
     *Excellent Dissertation for Bachelor’s Degree<br>
     
-****Projects****<br>
-Host<br>
+****项目/Projects****<br>
+主持/Host<br>
     2019.9-2021.10, Ph.D’s Innovation Project of Graduate School of South China Normal University (2019LKXM012), RMB 12,000<br>
     2017.9-2018.10, Master’s Innovation Project of Guangxi Graduate Education (XYCSZ2018082), RMB 15,000<br>
 
-Participant<br>
+参与/Participant<br>
     Oct. 2019 to -, National Natural Science Foundation (51965007), RMB 400,000<br>
     Oct. 2017 to Oct. 2018, Guangxi Natural Science Foundation (2017GXNSFAA198261) Fifth participant, RMB 120,000<br>
     Oct. 2017 to Oct. 2018, Guangxi Key Laboratory of Automatic Testing Technology and Instruments (YQ19207) Fourth participant， RMB 50,000<br>
     Oct. 2016 to Oct. 2017, Master’s Innovation Project of Guangxi Graduate Education (XYCSZ2017054) Second participant, RMB 15,000<br>
 
-****Publication**** <br>
+****论文/Publication**** <br>
 <br>2022<br>
     [28]<b>Zhengjie Xu</b>, Lanqin Huang, et al. Thermal Annealing-Free SnO2 for Fully Room-Temperature-Processed Perovskite Solar Cells. <b><i>ACS Applied Materials & Interfaces</b></i>, 2022, 14(36), 41037–41044. (Q1, IF= 10.383)<br>
     [27]Dongdong Xu, Runsheng Mai, Yue Jiang, Cong Chen, Ru Wang, <b>Zhengjie Xu</b>, et al. An internal encapsulating layer for efficient, stable, repairable and low-lead-leakage perovskite solar cells. <b><i>Energy & Environmental Science</b></i>, 2022,15, 3891-3900. (Q1, IF= 39.714)<br>
@@ -82,13 +85,19 @@ Participant<br>
     [02]Jun Zhu*(supervisor), Wenju Xu, Zhengjie Xu, Fu Deli, Duqu Wei. Multilayered surface plasma resonance waveguide sensing device. <b><i>Optik</b></i>, 2017, 135, 36-41. (Q2, IF = 1.191), DOI:10.1016/j.ijleo.2017.01.049<br>
     [01]Jun Zhu*(supervisor), Wenju Xu, <b>Zhengjie Xu</b>, Deli Fu, Shuxiang Song, Duqu Wei. Surface plasmon polariton mode in the metal-insulator-metal waveguide. <b><i>Optik</b></i>, 2017, 134, 187-193. (Q2, IF = 1.191), DOI:10.1016/j.ijleo.2017.01.047<br>
 
-****Conferences**** <br>   
+****专利/Patent****<br>  
+[1] Zhengjie Xu, Jun Zhu supervisor), et al.(ZL 2018 2 0810032.1)<br>  
+[2] Zhengjie Xu, Jun Zhu (supervisor), et al. (ZL 2017 2 0581406.2)<br>  
+[3] Jun Zhu (supervisor), Zhengjie Xu, et al. (ZL 2017 2 0581396.1)<br>  
+[4] Jun Zhu (supervisor),Zhengjie Xu, et al. (ZL 2016 2 1102557.7)<br>  
+
+****会议/Conferences**** <br>   
 [1] Sep 25-27, 2017, The 1st International Conference of Smart World, Intelligent Innovation Integrated Development, Xi’an, China<br>
 [2] Oct 15-17, 2017, The Conference on Micro/nano Optical Technology and Application, Optical Microscopy Research and Applications, Suzhou, China<br>
 [3] Nov 27-29, 2020, 第四届全国太阳能材料与太阳能电池学术研讨会，苏州，中国
-[4] Dec 15-17, 2021，International Online Conference on Hybrid Materials and Optoelectronic Devices
+[4] Dec 15-17, 2021, International Online Conference on Hybrid Materials and Optoelectronic Devices
 
-****Activities**** <br> 
+****活动/Activities**** <br> 
 2017 – 2018<br> 
 [1] Presidium, Graduate Student Association, Guangxi Normal University Communist Youth League<br>
 [2] Excellent Student Leader, ‘Jinggang Mountain Chinese Dream’ National College Summer Practice Special Action, Chinese Communist Youth League<br>
