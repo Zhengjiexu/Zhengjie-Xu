@@ -19,6 +19,7 @@
 2019.9-2022.6 Ph.D. in Condensed Matter Physics, Southern China Normal University, China<br>
     *National academic scholarship (first class scholarship of Ph.D degree), 2019<br>
     *National academic scholarship (second class scholarship of Ph.D degree), 2020<br>
+    *National academic scholarship (first class scholarship of Ph.D degree), 2021<br>
 
 硕士，信息与通信工程，广西师范大学，2016至 2019，3.63/4（Top 1） <br> 
 2016.9-2022.6 MA.Eng in Electronics and Communications Engineering, Guangxi Normal University, China<br>
