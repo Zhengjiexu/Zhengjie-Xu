@@ -9,10 +9,10 @@
     Photovolatic devices<br>
     
 ****教育工作经历/Experiences****<br>
-北京大学，2023至今，博士后<br>
+博士后，集成电路，北京大学，2023至今<br>
 2023.5-now Postdoc researcher in the Peking University, China<br>
 
-工业和信息化部电子第五研究所，2022至2023，研发工程师<br>
+研发工程师，工业和信息化部电子第五研究所，2022至2023<br>
 2022.6-2023.3 Research and Development Engineer in the 5th Institute of Ministry of Industry and Information Technology(MIIT), China<br>
 
 博士，凝聚态物理，华南师范大学，2019至2022，3.27/4（Top 0.1%）<br>
