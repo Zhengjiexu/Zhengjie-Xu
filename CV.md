@@ -10,7 +10,7 @@
     
 ****教育工作经历/Experiences****<br>
 博士后，集成电路，北京大学，2023至今<br>
-2023.5-now Postdoc researcher in the Peking University, China<br>
+2023.5-now Postdoc Researcher in Electronic Science and Technology, Peking University, China<br>
 
 研发工程师，工业和信息化部电子第五研究所，2022至2023<br>
 2022.6-2023.3 Research and Development Engineer in the 5th Institute of Ministry of Industry and Information Technology(MIIT), China<br>
