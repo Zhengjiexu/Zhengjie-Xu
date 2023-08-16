@@ -51,6 +51,9 @@
     Oct. 2016 to Oct. 2017, Master’s Innovation Project of Guangxi Graduate Education (XYCSZ2017054) Second participant, RMB 15,000<br>
 
 ****论文/Publication**** <br>
+<br>2023<br>
+    [29]Lou Qiang, <b>Zhengjie Xu</b>,  et al. Fluorinated Graphene–Lewis-Base Polymer Composites as a Multifunctional Passivation Layer for High-Performance Perovskite Solar Cells. <b><i>ACS Applied Materials & Interfaces</b></i>, 2023, accpet. (Q1, IF= 10.383)<br>
+
 <br>2022<br>
     [28]<b>Zhengjie Xu</b>, Lanqin Huang, et al. Thermal Annealing-Free SnO2 for Fully Room-Temperature-Processed Perovskite Solar Cells. <b><i>ACS Applied Materials & Interfaces</b></i>, 2022, 14(36), 41037–41044. (Q1, IF= 10.383)<br>
     [27]Dongdong Xu, Runsheng Mai, Yue Jiang, Cong Chen, Ru Wang, <b>Zhengjie Xu</b>, et al. An internal encapsulating layer for efficient, stable, repairable and low-lead-leakage perovskite solar cells. <b><i>Energy & Environmental Science</b></i>, 2022,15, 3891-3900. (Q1, IF= 39.714)<br>
