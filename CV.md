@@ -52,7 +52,7 @@
 
 ****论文/Publication**** <br>
 <br>2023<br>
-    [29]Lou Qiang, <b>Zhengjie Xu</b>,  et al. Fluorinated Graphene–Lewis-Base Polymer Composites as a Multifunctional Passivation Layer for High-Performance Perovskite Solar Cells. <b><i>ACS Applied Materials & Interfaces</b></i>, 2023, accpet. (Q1, IF= 10.383)<br>
+    [29]Qiang Lou, Hailing Guo, Jiahao Chen, Yuzheng Guo, Xiaomeng Zhu, Tong Chen, Xinxin Xu, Jingyi Xu,<b>Zhengjie Xu</b>,  Hang Zhou. Fluorinated Graphene–Lewis-Base Polymer Composites as a Multifunctional Passivation Layer for High-Performance Perovskite Solar Cells. <b><i>ACS Applied Materials & Interfaces</b></i>, 2023, accpet. (Q1, IF= 10.383)<br>
 
 <br>2022<br>
     [28]<b>Zhengjie Xu</b>, Lanqin Huang, et al. Thermal Annealing-Free SnO2 for Fully Room-Temperature-Processed Perovskite Solar Cells. <b><i>ACS Applied Materials & Interfaces</b></i>, 2022, 14(36), 41037–41044. (Q1, IF= 10.383)<br>
