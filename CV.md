@@ -36,12 +36,14 @@
     
 ****项目/Projects****<br>
 主持/Host<br>
-    2022.7-2023.3, XX仪器研制项目
+    2022.7-2023.3, XX仪器研制项目<br>
     2019.9-2021.10, Ph.D’s Innovation Project of Graduate School of South China Normal University (2019LKXM012), RMB 12,000<br>
     2017.9-2018.10, Master’s Innovation Project of Guangxi Graduate Education (XYCSZ2018082), RMB 15,000<br>
 
 参与/Participant<br>
-    面向柔性太阳能电池全印刷的分形金属网络透明电极宏量制备研究(国家自然科学基金委-广东省政府联合基金重点项目,225万) <br>
+    基于植入式传感器的储能电池智能监测关键技术研发(深圳市科创委-重大专项, 4000万), 项目编号：KJZD20230923115005009, 其他成员<br>
+   柔性钙钛矿太阳能电池的透明银纳米线电极研究(深圳市科创委-国际合作研究项目,90万), 项目编号：202402183000142, 核心成员<br>
+   面向柔性太阳能电池全印刷的分形金属网络透明电极宏量制备研究(国家自然科学基金委-广东省政府联合基金重点项目,225万) <br>
    面向钙钛矿太阳能电池应用的叶脉分形网络透明电极的电荷输运性能及机理研究(国家自然科学基金委面上项目,74万,项目编号：51571094) <br>
    印刷亚微米金属网络透明电极薄膜技术及其产业化研究( 广东省重大专项,500 万, 项目编号：2014B090915005) <br>
    新型柔性金属网络透明导电电极薄膜的制备及其光伏电池应用研究(广东省自然科学基金,10万,项目编号：2014A030313447) <br>
@@ -51,13 +53,20 @@
     Oct. 2016 to Oct. 2017, Master’s Innovation Project of Guangxi Graduate Education (XYCSZ2017054) Second participant, RMB 15,000<br>
 
 ****论文/Publication**** <br>
-<br>2023<br>
-    [29]Qiang Lou, Hailing Guo, Jiahao Chen, Yuzheng Guo, Xiaomeng Zhu, Tong Chen, Xinxin Xu, Jingyi Xu,<b>Zhengjie Xu</b>,  Hang Zhou. Fluorinated Graphene–Lewis-Base Polymer Composites as a Multifunctional Passivation Layer for High-Performance Perovskite Solar Cells. <b><i>ACS Applied Materials & Interfaces</b></i>, 2023, accpet. (Q1, IF= 10.383)<br>
+<br>2024<br>
+    [33]<b>Zhengjie Xu</b>, Qiang Lou, Jiahao Chen, Xinxin Xu, Shiqiang Luo, Zanxiang Nie, Shengdong Zhang, Hang Zhou. Synergetic Optimization of Upper and Lower Surfaces of the SnO2 Electron Transport Layer for High-Performance n–i–p Perovskite Solar Cells. <b><i>ACS Applied Materials & Interfaces</b></i>, 2024, 16, 34377-34385. (Q1, IF= 10.383)<br>, DOI:10.1021/acsami.4c05629.
+    [32]Qiang Lou, Xinxin Xu, Xueqing Lv, <b>Zhengjie Xu</b>, Tian Sun, Liwen Qiu, Tingting Dai, Erjun Zhou, Guijun Li, Tong Chen, Yen-Hung Lin, and Hang Zhou. Room Temperature Ionic Liquid Capping Layer for High Efficiency FAPbI3 Perovskite Solar Cells with Long-Term Stability. <b><i>Advanced Science</b></i>, 2024, 11, 2400117. (Q1, IF= 15.1)<br>, DOI:10.1002/advs.202400117.
+    [31]Chengyun Wang, Yue Jiang, Yihui Li, Zhengchi Yang, <b>Zhengjie Xu</b>, Cong Chen, Zhen Wang, Guofu Zhou, Jun-Ming Liu, Jinwei Gao. Ameliorating the Interfacial Mismatch of SnO2 and Perovskite Enabling High Mechanical Stability for Flexible Perovskite Solar Cells. <b><i>Solar RRL</b></i>, 2024, 8, 2300925. (Q1, IF= 6.041)<br>, DOI:10.1002/solr.202300925.
 
+<br>2023<br>
+    [30]Qiang Lou, Hailing Guo, Jiahao Chen, Yuzheng Guo, Xiaomeng Zhu, Tong Chen, Xinxin Xu, Jingyi Xu,<b>Zhengjie Xu</b>, Hang Zhou. Fluorinated Graphene–Lewis-Base Polymer Composites as a Multifunctional Passivation Layer for High-Performance Perovskite Solar Cells. <b><i>ACS Applied Materials & Interfaces</b></i>, 2023, 15(33), 39374-39383. (Q1, IF= 10.383)<br>
+    
 <br>2022<br>
-    [28]<b>Zhengjie Xu</b>, Lanqin Huang, et al. Thermal Annealing-Free SnO2 for Fully Room-Temperature-Processed Perovskite Solar Cells. <b><i>ACS Applied Materials & Interfaces</b></i>, 2022, 14(36), 41037–41044. (Q1, IF= 10.383)<br>
-    [27]Dongdong Xu, Runsheng Mai, Yue Jiang, Cong Chen, Ru Wang, <b>Zhengjie Xu</b>, et al. An internal encapsulating layer for efficient, stable, repairable and low-lead-leakage perovskite solar cells. <b><i>Energy & Environmental Science</b></i>, 2022,15, 3891-3900. (Q1, IF= 39.714)<br>
-    [26]YehuiWua, Zhiming Gong, Yue Jiang, Ru Wang, Dongdong Xu, <b>Zhengjie Xu</b>, et al. Low-cost and efficient hole transport materials based on 9-phenyl-9H-carbazole branch for perovskite solar cells. <b><i>Surfaces and Interfaces</b></i>, 2022, 28, 101598. (Q1, IF= 6.137)<br>
+    [29]<b>Zhengjie Xu</b>, Lanqin Huang, Yue Jiang, Zhuoxi Li, Cong Chen, Zijun He, Jiayan Liu, Yating Fang, Kai Wang, Guofu Zhou, Jun-Ming Liu, Jinwei Gao. Thermal Annealing-Free SnO2 for Fully Room-Temperature-Processed Perovskite Solar Cells. <b><i>ACS Applied Materials & Interfaces</b></i>, 2022, 14(36), 41037–41044. (Q1, IF= 10.383)<br>, DOI:10.1021/acsami.2c11488.
+    [28]Dongdong Xu, Runsheng Mai, Yue Jiang, Cong Chen, Ru Wang, <b>Zhengjie Xu</b>, Krzysztof Kempa, Guofu Zhou, Jun-Ming Liu, Jinwei Gao. An internal encapsulating layer for efficient, stable, repairable and low-lead-leakage perovskite solar cells. <b><i>Energy & Environmental Science</b></i>, 2022,15, 3891-3900. (Q1, IF= 39.714)<br>, DOI:10.1039/D2EE01016J
+    [27]YehuiWu, Zhiming Gong, Yue Jiang, Ru Wang, Dongdong Xu, <b>Zhengjie Xu</b>, Guofu Zhou, Jun-Ming Liu, Jinwei Gao. Low-cost and efficient hole transport materials based on 9-phenyl-9H-carbazole branch for perovskite solar cells. <b><i>Surfaces and Interfaces</b></i>, 2022, 28, 101598. (Q1, IF= 6.137)<br>, DOI:10.1016/j.surfin.2021.101598
+    [26]Yating Fang, Yue Jiang, Zhengchi Yang, <b>Zhengjie Xu</b>, Zhen Wang, Xubing Lu, Xingsen Gao, Guofu Zhou, Jun-Ming Liu, Jinwei Gao. A Nontoxic NFM Solvent for High-Efficiency Perovskite Solar Cells with a Widened Processing Window. <b><i>ACS Applied Materials & Interfaces</b></i>, 2022, 14, 47758-47764. (Q1, IF= 10.383)<br>, DOI:10.1021/acsami.2c13507.
+
 
 
 <br>2021<br>
