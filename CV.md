@@ -54,6 +54,7 @@
 
 ****论文/Publication**** <br>
 <br>2024<br>
+    [34] Xiaohong Tan, Chi Fang, Zhongqi Liang, <b>Zhengjie Xu</b>, Jiaxin Zheng, Xianqi Xu, Yufeng Jin, Guoshen Yang, Hang Zhou. Modulating Electrolyte Solvation Structure for High-Voltage and Low-Temperature Magnesium-Ion Supercapacitors. <b><i>Batteries & Supercaps</b></i>, 2024, e202400620. (Q2, IF= 5.1), DOI:10.1002/batt.202400620<br>
     [33]<b>Zhengjie Xu</b>, Qiang Lou, Jiahao Chen, Xinxin Xu, Shiqiang Luo, Zanxiang Nie, Shengdong Zhang, Hang Zhou. Synergetic Optimization of Upper and Lower Surfaces of the SnO2 Electron Transport Layer for High-Performance n–i–p Perovskite Solar Cells. <b><i>ACS Applied Materials & Interfaces</b></i>, 2024, 16, 34377-34385. (Q1, IF= 10.383), DOI:10.1021/acsami.4c05629.<br>
     [32]Qiang Lou, Xinxin Xu, Xueqing Lv, <b>Zhengjie Xu</b>, Tian Sun, Liwen Qiu, Tingting Dai, Erjun Zhou, Guijun Li, Tong Chen, Yen-Hung Lin, and Hang Zhou. Room Temperature Ionic Liquid Capping Layer for High Efficiency FAPbI3 Perovskite Solar Cells with Long-Term Stability. <b><i>Advanced Science</b></i>, 2024, 11, 2400117. (Q1, IF= 15.1), DOI:10.1002/advs.202400117.<br>
     [31]Chengyun Wang, Yue Jiang, Yihui Li, Zhengchi Yang, <b>Zhengjie Xu</b>, Cong Chen, Zhen Wang, Guofu Zhou, Jun-Ming Liu, Jinwei Gao. Ameliorating the Interfacial Mismatch of SnO2 and Perovskite Enabling High Mechanical Stability for Flexible Perovskite Solar Cells. <b><i>Solar RRL</b></i>, 2024, 8, 2300925. (Q1, IF= 6.041), DOI:10.1002/solr.202300925.<br>
