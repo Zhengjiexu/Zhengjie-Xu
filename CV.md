@@ -36,12 +36,12 @@
     
 ****项目/Projects****<br>
 主持/Host<br>
-    2022.7-2023.3, XX仪器研制项目<br>
     2019.9-2021.10, Ph.D’s Innovation Project of Graduate School of South China Normal University (2019LKXM012), RMB 12,000<br>
     2017.9-2018.10, Master’s Innovation Project of Guangxi Graduate Education (XYCSZ2018082), RMB 15,000<br>
 
 参与/Participant<br>
-    基于植入式传感器的储能电池智能监测关键技术研发(深圳市科创委-重大专项, 4000万), 项目编号：KJZD20230923115005009, 其他成员<br>
+   双碳专2023013充电站光储充智能联动系统技术研发(深圳市科创委-可持续发展专项(双碳专项), 1300万), 项目编号：KCXST20221021111407018, 主要成员<br>
+   基于植入式传感器的储能电池智能监测关键技术研发(深圳市科创委-重大专项, 4000万), 项目编号：KJZD20230923115005009, 其他成员<br>
    柔性钙钛矿太阳能电池的透明银纳米线电极研究(深圳市科创委-国际合作研究项目,90万), 项目编号：202402183000142, 核心成员<br>
    面向柔性太阳能电池全印刷的分形金属网络透明电极宏量制备研究(国家自然科学基金委-广东省政府联合基金重点项目,225万) <br>
    面向钙钛矿太阳能电池应用的叶脉分形网络透明电极的电荷输运性能及机理研究(国家自然科学基金委面上项目,74万,项目编号：51571094) <br>
@@ -53,6 +53,8 @@
     Oct. 2016 to Oct. 2017, Master’s Innovation Project of Guangxi Graduate Education (XYCSZ2017054) Second participant, RMB 15,000<br>
 
 ****论文/Publication**** <br>
+<br>2025<br>
+    [35] <b>Zhengjie Xu</b>, Jianing Wang, Qiang Lou, Yufeng Jin, Hong Meng, Hang Zhou. Tailoring Iodide-Capturing Molecules for High-Performance Perovskite Solar Cells Based on P3HT. <b><i>Solar RRL</b></i>, 2025, 202400901. (Q1, IF= 6.0), DOI:10.1002/solr.202400901<br>
 <br>2024<br>
     [34] Xiaohong Tan, Chi Fang, Zhongqi Liang, <b>Zhengjie Xu</b>, Jiaxin Zheng, Xianqi Xu, Yufeng Jin, Guoshen Yang, Hang Zhou. Modulating Electrolyte Solvation Structure for High-Voltage and Low-Temperature Magnesium-Ion Supercapacitors. <b><i>Batteries & Supercaps</b></i>, 2024, e202400620. (Q2, IF= 5.1), DOI:10.1002/batt.202400620<br>
     [33]<b>Zhengjie Xu</b>, Qiang Lou, Jiahao Chen, Xinxin Xu, Shiqiang Luo, Zanxiang Nie, Shengdong Zhang, Hang Zhou. Synergetic Optimization of Upper and Lower Surfaces of the SnO2 Electron Transport Layer for High-Performance n–i–p Perovskite Solar Cells. <b><i>ACS Applied Materials & Interfaces</b></i>, 2024, 16, 34377-34385. (Q1, IF= 10.383), DOI:10.1021/acsami.4c05629.<br>
