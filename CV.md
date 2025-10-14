@@ -54,9 +54,10 @@
 
 ****论文/Publication**** <br>
 <br>2025<br>
-    [38] Jiazheng Wang , Qiang Lou , <b>Zhengjie Xu</b>, Yufeng Jin , Guibo Luo, Hang Zhou. Accelerating ionic liquid research in perovskite solar cells through machine learning: Opportunities and challenges. <b><i>Materials Today Electronics</b></i>, 2025, 12, 100143. (Q1, IF= x), DOI:<br>
+    [39] <b>Zhengjie Xu*</b>, Qiang Lou , Xuan Lu, Liping Xu, Yufeng Jin , Hang Zhou. SnO2 Modification with Tetrapropylammonium Hydroxide to Enhance Bottom Contact for High-Performance Perovskite Solar Cells. <b><i>ACS Applied Energy Materials</b></i>, 2025, 8(19), 14437-14445. (Q1, IF= 5.40), DOI:10.1021/acsaem.5c02089<br>
+    [38] Jiazheng Wang , Qiang Lou , <b>Zhengjie Xu</b>, Yufeng Jin , Guibo Luo, Hang Zhou. Accelerating ionic liquid research in perovskite solar cells through machine learning: Opportunities and challenges. <b><i>Materials Today Electronics</b></i>, 2025, 12, 100143. (Q1, IF= 7.40), DOI:10.1016/j.mtelec.2025.100143<br>
     [37] Yan Zhang, Jianing Wang, Zihao Lu, Fei Yang, Yuan Yang, Jingya Wu, Yabing Sun, <b>Zhengjie Xu</b>, Xianwen Wang, Fang Wang. Enhanced Efficiency of CsPbBrxI3-x Pure-Red Light-Emitting Diodes by embedding a Benzylphosphonic Acid modified layer. <b><i>Vacuum</b></i>, 2025, 238, 114206. (Q2, IF= 3.8), DOI:10.1016/j.vacuum.2025.114206<br>
-    [36] Qiang Lou, Xinxin Xu, <b>Zhengjie Xu</b>, Tingting Dai,  Hao Zhang, Lin Zhao, Feng Wang, Erjun Zhou, Feng Gao, Hang Zhou. A two-in-one additive strategy for poly(3-hexylthiophene)-based perovskite solar cells with improved efficiency and stability. <b><i>Cell Reports Physical Science</b></i>, 2025, accept. (Q1, IF= x), DOI:<br>
+    [36] Qiang Lou, Xinxin Xu, <b>Zhengjie Xu</b>, Tingting Dai,  Hao Zhang, Lin Zhao, Feng Wang, Erjun Zhou, Feng Gao, Hang Zhou. A two-in-one additive strategy for poly(3-hexylthiophene)-based perovskite solar cells with improved efficiency and stability. <b><i>Cell Reports Physical Science</b></i>, 2025, 6 (4), 102515. (Q1, IF= x), DOI:10.1016/j.xcrp.2025.102515<br>
     [35] <b>Zhengjie Xu</b>, Jianing Wang, Qiang Lou, Yufeng Jin, Hong Meng, Hang Zhou. Tailoring Iodide-Capturing Molecules for High-Performance Perovskite Solar Cells Based on P3HT. <b><i>Solar RRL</b></i>, 2025, 202400901. (Q1, IF= 6.0), DOI:10.1002/solr.202400901<br>
 
 <br>2024<br>
