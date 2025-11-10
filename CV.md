@@ -38,15 +38,13 @@
 主持/Host<br>
     2019.9-2021.10, Ph.D’s Innovation Project of Graduate School of South China Normal University (2019LKXM012), RMB 12,000<br>
     2017.9-2018.10, Master’s Innovation Project of Guangxi Graduate Education (XYCSZ2018082), RMB 15,000<br>
+    2025.10-2027.10, Department of Education of Guangdong Province (Young Innovative Talents Project, 2025KQNCX221).
 
 参与/Participant<br>
+   广州工程技术职业学院，汽车产业学院，质量工程项目，参与，90万，排名11/16
    双碳专2023013充电站光储充智能联动系统技术研发(深圳市科创委-可持续发展专项(双碳专项), 1300万), 项目编号：KCXST20221021111407018, 主要成员<br>
    基于植入式传感器的储能电池智能监测关键技术研发(深圳市科创委-重大专项, 4000万), 项目编号：KJZD20230923115005009, 其他成员<br>
    柔性钙钛矿太阳能电池的透明银纳米线电极研究(深圳市科创委-国际合作研究项目,90万), 项目编号：202402183000142, 核心成员<br>
-   面向柔性太阳能电池全印刷的分形金属网络透明电极宏量制备研究(国家自然科学基金委-广东省政府联合基金重点项目,225万) <br>
-   面向钙钛矿太阳能电池应用的叶脉分形网络透明电极的电荷输运性能及机理研究(国家自然科学基金委面上项目,74万,项目编号：51571094) <br>
-   印刷亚微米金属网络透明电极薄膜技术及其产业化研究( 广东省重大专项,500 万, 项目编号：2014B090915005) <br>
-   新型柔性金属网络透明导电电极薄膜的制备及其光伏电池应用研究(广东省自然科学基金,10万,项目编号：2014A030313447) <br>
     Oct. 2019 to -, National Natural Science Foundation (51965007), RMB 400,000<br>
     Oct. 2017 to Oct. 2018, Guangxi Natural Science Foundation (2017GXNSFAA198261) Fifth participant, RMB 120,000<br>
     Oct. 2017 to Oct. 2018, Guangxi Key Laboratory of Automatic Testing Technology and Instruments (YQ19207) Fourth participant， RMB 50,000<br>
@@ -54,6 +52,7 @@
 
 ****论文/Publication**** <br>
 <br>2025<br>
+    [39] Jiazheng Wang, Qiang Lou, Qingqing Zhang, Haibiao Chen, <b>Zhengjie Xu*</b>, Hongye Liu, Hao Zhang, Xinxin Xu, Guibo Luo, Yen-Hung Lin, Gehan Amaratunga, Hang Zhou , Hang Zhou. Accelerated Data-Driven Discovery of Dual-Functional Ionic Liquid Passivation for FAPbI3 Perovskite Solar Cells Using Graph Neural Network. <b><i>EcoMat</b></i>, 2025, 7, e70033. (Q1, IF= 10.7), DOI:10.1002/eom2.70033<br>
     [39] <b>Zhengjie Xu*</b>, Qiang Lou , Xuan Lu, Liping Xu, Yufeng Jin , Hang Zhou. SnO2 Modification with Tetrapropylammonium Hydroxide to Enhance Bottom Contact for High-Performance Perovskite Solar Cells. <b><i>ACS Applied Energy Materials</b></i>, 2025, 8(19), 14437-14445. (Q2, IF= 5.40), DOI:10.1021/acsaem.5c02089<br>
     [38] Jiazheng Wang , Qiang Lou , <b>Zhengjie Xu</b>, Yufeng Jin , Guibo Luo, Hang Zhou. Accelerating ionic liquid research in perovskite solar cells through machine learning: Opportunities and challenges. <b><i>Materials Today Electronics</b></i>, 2025, 12, 100143. (Q1, IF= 7.40), DOI:10.1016/j.mtelec.2025.100143<br>
     [37] Yan Zhang, Jianing Wang, Zihao Lu, Fei Yang, Yuan Yang, Jingya Wu, Yabing Sun, <b>Zhengjie Xu</b>, Xianwen Wang, Fang Wang. Enhanced Efficiency of CsPbBrxI3-x Pure-Red Light-Emitting Diodes by embedding a Benzylphosphonic Acid modified layer. <b><i>Vacuum</b></i>, 2025, 238, 114206. (Q2, IF= 3.8), DOI:10.1016/j.vacuum.2025.114206<br>
@@ -134,5 +133,9 @@
 [3] Excellent Student Cadre and Excellent League Members, “May 4th” Assessment, Guangxi Normal University Communist Youth League<br>
 [4] Excellent Planner, 17th Graduate Table Tennis and Badminton Competition, Graduate Basketball Competition and 5th Graduate Cheerleading Competition, Guangxi Normal University Communist Youth League<br>
 [5] gold medalist in men’s singles badminton group of 17th Graduate Table Tennis and Badminton Competition<br>
+
+   ****获奖/Activities**** <br> 
+[1] 广州工程技术职业学院，技能大赛教学能力比赛，参与，三等奖，排名1/3，校级
+
 
     
