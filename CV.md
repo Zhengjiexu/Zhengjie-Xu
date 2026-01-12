@@ -38,8 +38,8 @@
 主持/Host<br>
     2019.9-2021.10, Ph.D’s Innovation Project of Graduate School of South China Normal University (2019LKXM012), RMB 12,000<br>
     2017.9-2018.10, Master’s Innovation Project of Guangxi Graduate Education (XYCSZ2018082), RMB 15,000<br>
-    2025.10-2027.10, Department of Education of Guangdong Province (Young Innovative Talents Project, 2025KQNCX221).
-    2026.1-2028.1, Guangzhou Municipal Education Bureau (2025XGYS016)
+    2025.10-2027.10, Department of Education of Guangdong Province (Young Innovative Talents Project, 2025KQNCX221).<br>
+    2026.1-2028.1, Guangzhou Municipal Education Bureau (2025XGYS016)<br>
 参与/Participant<br>  
    广州工程技术职业学院，汽车产业学院，质量工程项目，参与，90万，排名11/16<br>
    双碳专2023013充电站光储充智能联动系统技术研发(深圳市科创委-可持续发展专项(双碳专项), 1300万), 项目编号：KCXST20221021111407018, 主要成员<br>
