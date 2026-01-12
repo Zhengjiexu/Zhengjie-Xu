@@ -39,9 +39,9 @@
     2019.9-2021.10, Ph.D’s Innovation Project of Graduate School of South China Normal University (2019LKXM012), RMB 12,000<br>
     2017.9-2018.10, Master’s Innovation Project of Guangxi Graduate Education (XYCSZ2018082), RMB 15,000<br>
     2025.10-2027.10, Department of Education of Guangdong Province (Young Innovative Talents Project, 2025KQNCX221).
-
-参与/Participant<br>
-   广州工程技术职业学院，汽车产业学院，质量工程项目，参与，90万，排名11/16
+    2026.1-2028.1, Guangzhou Municipal Education Bureau (2025XGYS016)
+参与/Participant<br>  
+   广州工程技术职业学院，汽车产业学院，质量工程项目，参与，90万，排名11/16<br>
    双碳专2023013充电站光储充智能联动系统技术研发(深圳市科创委-可持续发展专项(双碳专项), 1300万), 项目编号：KCXST20221021111407018, 主要成员<br>
    基于植入式传感器的储能电池智能监测关键技术研发(深圳市科创委-重大专项, 4000万), 项目编号：KJZD20230923115005009, 其他成员<br>
    柔性钙钛矿太阳能电池的透明银纳米线电极研究(深圳市科创委-国际合作研究项目,90万), 项目编号：202402183000142, 核心成员<br>
