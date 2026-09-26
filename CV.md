@@ -53,6 +53,7 @@
 
 ****论文/Publication**** <br>
 <br>2026<br>
+    [45] Xu Yu, Xinyu Wang, Guohui Yang, Fu Qin, Xiaohai Cui, Xiaoyue Wang, Pengsong Cui, <b>Zhengjie Xu*</b>, Lili Ren*. Phosphate‑Induced In Situ Co3+ Enrichment and Hollowing of CoFe Prussian Blue Analogues at Room Temperature for Superior OER. <b><i>Advanced Functional Materials</b></i>, 2026, e78079. (Q1, IF= 19.00), DOI:10.1002/adfm.78079<br>
     [44] Haocheng Huang, Qiang Lou, Hao Zhang, Xinxin Xu, <b>Zhengjie Xu</b>,  Xuan Lu, Hang Zhou. Enhancing buried interfacial toughness and performance in n–i–p perovskite solar cells via dipolar molecular interlayers. <b><i>Journal of Materials Chemistry C</b></i>, 2026, 14(21), 8985-8996. (Q1, IF= 5.20), DOI:10.1039/d6tc00496b<br>
     [43] <b>Zhengjie Xu*</b>,  Xuan Lu, Jianing Wang, Qiang Lou, Jiazheng Wang, Xinxin Xu, Hao Zhang, Xinyan Dong, Liping Xu, Hong Meng, Yufeng Jin, Hang Zhou. Enhancing Hot-Electron Extraction via Naphthalene Tetracarboxylic Diimide-Based Molecule in n–i–p Perovskite Solar Cells. <b><i>ACS Applied Energy Materials</b></i>, 2026, 9(9), 5779-5788. (Q1, IF= 5.50), DOI:10.1021/acsaem.6c00491<br>
     [42] Jiazheng Wang, Xinxin Xu, Qiang Lou, Hongye Liu, <b>Zhengjie Xu</b>,  Chiuyung Chen, Qing Han, Hao Zhang, Jing Guo, Guibo Luo, Yuanyuan Hu, Hang Zhou. Large Language Model Guided Discovery of Hole Transport Layer Dopants for Efficient and Stable Perovskite Photovoltaics. <b><i>Small Methods</b></i>, 2026, e70894. (Q1, IF= 9.10), DOI:10.1002/smtd.70894<br>
